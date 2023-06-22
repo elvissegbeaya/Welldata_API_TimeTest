@@ -1,0 +1,807 @@
+2023-06-16 18:37:09,701 INFO Starting script
+2023-06-16 18:37:16,008 INFO Starting script
+2023-06-16 18:43:28,058 INFO Starting script
+2023-06-16 19:00:43,687 INFO Starting script
+2023-06-16 19:07:22,841 INFO Starting script
+2023-06-16 19:08:24,390 INFO Starting script
+2023-06-16 20:35:24,796 INFO Starting script
+2023-06-16 20:35:25,614 INFO Starting script
+2023-06-16 20:35:26,342 INFO Starting script
+2023-06-16 20:35:35,444 INFO Starting script
+2023-06-16 20:53:43,058 INFO Starting script
+2023-06-16 20:58:59,475 INFO Starting script
+2023-06-16 21:45:36,670 INFO Starting script
+2023-06-16 22:49:13,961 INFO Starting script
+2023-06-16 22:51:25,738 INFO Starting script
+2023-06-17 00:51:53,539 INFO Starting script
+2023-06-17 00:54:15,789 INFO Starting script
+2023-06-17 00:56:06,330 INFO Starting script
+2023-06-17 15:42:22,133 INFO Starting script
+2023-06-17 16:43:36,515 INFO Starting script
+2023-06-17 16:44:18,167 INFO Starting script
+2023-06-17 22:02:48,399 INFO Starting script
+2023-06-17 22:03:27,936 INFO Starting script
+2023-06-17 23:06:24,081 INFO Starting script
+2023-06-18 00:32:06,586 INFO Starting script
+2023-06-18 00:32:58,365 INFO Starting script
+2023-06-18 01:36:37,521 INFO Starting script
+2023-06-18 01:38:51,410 INFO Starting script
+2023-06-18 02:57:53,476 INFO Starting script
+2023-06-18 04:05:01,536 INFO Starting script
+2023-06-18 04:10:20,749 INFO Starting script
+2023-06-18 11:41:42,074 INFO Starting script
+2023-06-18 11:44:58,048 ERROR Error sending request
+2023-06-18 11:44:58,048 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-18 11:47:03,747 ERROR Error sending request
+2023-06-18 11:47:03,748 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-18 11:47:51,170 ERROR Error sending request
+2023-06-18 11:47:51,170 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 11:51:28,469 ERROR Error sending request
+2023-06-18 11:51:28,469 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 11:52:43,847 ERROR Error sending request
+2023-06-18 11:52:43,847 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 12:53:27,856 ERROR Error sending request
+2023-06-18 12:53:27,857 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 13:54:52,299 ERROR Error sending request
+2023-06-18 13:54:52,299 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-18 13:55:19,906 ERROR Error sending request
+2023-06-18 13:55:19,906 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 14:57:03,862 ERROR Error sending request
+2023-06-18 14:57:03,863 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 14:59:02,782 ERROR Error sending request
+2023-06-18 14:59:02,783 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 16:05:47,872 ERROR Error sending request
+2023-06-18 16:05:47,873 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 16:06:36,522 ERROR Error sending request
+2023-06-18 16:06:36,523 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-18 16:08:35,781 ERROR Error sending request
+2023-06-18 16:08:35,782 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 16:10:24,111 ERROR Error sending request
+2023-06-18 16:10:24,112 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 16:13:37,914 ERROR Error sending request
+2023-06-18 16:13:37,915 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 16:13:54,453 ERROR Error sending request
+2023-06-18 16:13:54,454 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-18 16:14:15,351 INFO Starting script
+2023-06-18 18:17:00,073 ERROR Error sending request
+2023-06-18 18:17:00,074 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-18 20:20:23,521 ERROR Error sending request
+2023-06-18 20:20:23,521 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 21:24:47,993 ERROR Error sending request
+2023-06-18 21:24:47,995 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 21:25:25,745 ERROR Error sending request
+2023-06-18 21:25:25,746 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 21:26:48,629 ERROR Error sending request
+2023-06-18 21:26:48,629 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 21:27:13,579 ERROR Error sending request
+2023-06-18 21:27:13,579 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 21:29:05,855 ERROR Error sending request
+2023-06-18 21:29:05,855 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 21:29:09,302 ERROR Error sending request
+2023-06-18 21:29:09,302 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 22:05:25,170 INFO Starting script
+2023-06-18 22:07:00,674 ERROR Error sending request
+2023-06-18 22:07:00,674 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 23:08:37,384 ERROR Error sending request
+2023-06-18 23:08:37,385 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 23:09:49,673 ERROR Error sending request
+2023-06-18 23:09:49,673 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 23:11:35,682 ERROR Error sending request
+2023-06-18 23:11:35,682 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 23:13:52,069 ERROR Error sending request
+2023-06-18 23:13:52,069 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-18 23:14:20,135 ERROR Error sending request
+2023-06-18 23:14:20,136 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-18 23:15:11,122 ERROR Error sending request
+2023-06-18 23:15:11,122 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 06:43:43,506 ERROR Error sending request
+2023-06-19 06:43:43,516 ERROR Exception: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+2023-06-19 06:43:43,534 ERROR Error sending request to server
+2023-06-19 06:43:43,539 ERROR Query https://data.welldata.net/api/v1/jobs/net_181613
+2023-06-19 06:43:43,540 ERROR Parameters {}
+2023-06-19 06:43:43,540 ERROR Headers {'Token': 'net,eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzYWx0IjoiNGZlN2MzYjgtYmQ4NC00ZmI0LTk3NGUtNDY3M2E4YzM4MzU2IiwicHJpbmNpcGFsIjoiNDk3NDh8Mnw0OjEyOjEzOjE0OjE1OjE2OjE4OjE5OjIwOjIxOjIyOjIzOjI0OjI1OjI2OjI3OjI4OjI5OjMwOjMyOjM1OjM2OjM3fEVEUl9SZXN0QVBJfGVuLVVTfG1kdHZpZXcgICAgICAgIHxzeXNhZG18MjAiLCJ1c2VySUQiOjQ5NzQ4LCJ1c2VybmFtZSI6IkVEUl9SZXN0QVBJIiwiYXBwbGljYXRpb24iOm51bGwsImFwcGxpY2F0aW9uR1VJRCI6IjAwMjU4MDYxLTUyOTAtNDFhYS1hNjNkLTBiODRlMDBmZGExMSIsInVzZXJJUCI6IjE3Mi4xNi4xNi44NCIsImRldmljZU5hbWUiOm51bGx9.wCUtqHhi6_0QpI8RzhGRnjg9Vq1KZY92GIgrOADlQSA', 'accept': 'application/json'}
+2023-06-19 06:43:43,540 ERROR Response None
+2023-06-19 06:43:43,540 ERROR Sleeping for 1 seconds
+2023-06-19 06:43:44,545 ERROR Error sending request to server
+2023-06-19 06:43:44,546 ERROR Query https://data.welldata.net/api/v1/jobs/net_181613/attributes
+2023-06-19 06:43:44,546 ERROR Parameters {}
+2023-06-19 06:43:44,546 ERROR Headers {'Token': 'net,eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzYWx0IjoiNGZlN2MzYjgtYmQ4NC00ZmI0LTk3NGUtNDY3M2E4YzM4MzU2IiwicHJpbmNpcGFsIjoiNDk3NDh8Mnw0OjEyOjEzOjE0OjE1OjE2OjE4OjE5OjIwOjIxOjIyOjIzOjI0OjI1OjI2OjI3OjI4OjI5OjMwOjMyOjM1OjM2OjM3fEVEUl9SZXN0QVBJfGVuLVVTfG1kdHZpZXcgICAgICAgIHxzeXNhZG18MjAiLCJ1c2VySUQiOjQ5NzQ4LCJ1c2VybmFtZSI6IkVEUl9SZXN0QVBJIiwiYXBwbGljYXRpb24iOm51bGwsImFwcGxpY2F0aW9uR1VJRCI6IjAwMjU4MDYxLTUyOTAtNDFhYS1hNjNkLTBiODRlMDBmZGExMSIsInVzZXJJUCI6IjE3Mi4xNi4xNi44NCIsImRldmljZU5hbWUiOm51bGx9.wCUtqHhi6_0QpI8RzhGRnjg9Vq1KZY92GIgrOADlQSA', 'accept': 'application/json'}
+2023-06-19 06:43:44,546 ERROR Response None
+2023-06-19 06:43:44,546 ERROR Sleeping for 1 seconds
+2023-06-19 06:43:45,547 ERROR Error sending request
+2023-06-19 06:43:45,547 ERROR Exception: list index out of range
+2023-06-19 06:43:45,551 ERROR Error sending request to server
+2023-06-19 06:43:45,551 ERROR Query https://data.welldata.net/api/v1/jobs/net_181620
+2023-06-19 06:43:45,551 ERROR Parameters {}
+2023-06-19 06:43:45,551 ERROR Headers {'Token': 'net,eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzYWx0IjoiNGZlN2MzYjgtYmQ4NC00ZmI0LTk3NGUtNDY3M2E4YzM4MzU2IiwicHJpbmNpcGFsIjoiNDk3NDh8Mnw0OjEyOjEzOjE0OjE1OjE2OjE4OjE5OjIwOjIxOjIyOjIzOjI0OjI1OjI2OjI3OjI4OjI5OjMwOjMyOjM1OjM2OjM3fEVEUl9SZXN0QVBJfGVuLVVTfG1kdHZpZXcgICAgICAgIHxzeXNhZG18MjAiLCJ1c2VySUQiOjQ5NzQ4LCJ1c2VybmFtZSI6IkVEUl9SZXN0QVBJIiwiYXBwbGljYXRpb24iOm51bGwsImFwcGxpY2F0aW9uR1VJRCI6IjAwMjU4MDYxLTUyOTAtNDFhYS1hNjNkLTBiODRlMDBmZGExMSIsInVzZXJJUCI6IjE3Mi4xNi4xNi44NCIsImRldmljZU5hbWUiOm51bGx9.wCUtqHhi6_0QpI8RzhGRnjg9Vq1KZY92GIgrOADlQSA', 'accept': 'application/json'}
+2023-06-19 06:43:45,551 ERROR Response None
+2023-06-19 06:43:45,551 ERROR Sleeping for 1 seconds
+2023-06-19 06:44:07,240 ERROR Error sending request
+2023-06-19 06:44:07,240 ERROR Exception: list index out of range
+2023-06-19 06:44:48,310 ERROR Error sending request
+2023-06-19 06:44:48,310 ERROR Exception: list index out of range
+2023-06-19 06:45:29,386 ERROR Error sending request
+2023-06-19 06:45:29,386 ERROR Exception: list index out of range
+2023-06-19 06:46:10,366 ERROR Error sending request
+2023-06-19 06:46:10,366 ERROR Exception: list index out of range
+2023-06-19 06:46:51,337 ERROR Error sending request
+2023-06-19 06:46:51,337 ERROR Exception: list index out of range
+2023-06-19 06:47:32,344 ERROR Error sending request
+2023-06-19 06:47:32,344 ERROR Exception: list index out of range
+2023-06-19 06:48:13,398 ERROR Error sending request
+2023-06-19 06:48:13,398 ERROR Exception: list index out of range
+2023-06-19 06:48:54,483 ERROR Error sending request
+2023-06-19 06:48:54,484 ERROR Exception: list index out of range
+2023-06-19 06:49:35,541 ERROR Error sending request
+2023-06-19 06:49:35,541 ERROR Exception: list index out of range
+2023-06-19 06:50:16,603 ERROR Error sending request
+2023-06-19 06:50:16,603 ERROR Exception: list index out of range
+2023-06-19 06:50:57,621 ERROR Error sending request
+2023-06-19 06:50:57,621 ERROR Exception: list index out of range
+2023-06-19 06:51:38,741 ERROR Error sending request
+2023-06-19 06:51:38,741 ERROR Exception: list index out of range
+2023-06-19 06:52:19,869 ERROR Error sending request
+2023-06-19 06:52:19,869 ERROR Exception: list index out of range
+2023-06-19 06:53:00,945 ERROR Error sending request
+2023-06-19 06:53:00,945 ERROR Exception: list index out of range
+2023-06-19 06:53:41,929 ERROR Error sending request
+2023-06-19 06:53:41,930 ERROR Exception: list index out of range
+2023-06-19 06:54:22,955 ERROR Error sending request
+2023-06-19 06:54:22,956 ERROR Exception: list index out of range
+2023-06-19 06:55:04,071 ERROR Error sending request
+2023-06-19 06:55:04,071 ERROR Exception: list index out of range
+2023-06-19 06:55:45,208 ERROR Error sending request
+2023-06-19 06:55:45,208 ERROR Exception: list index out of range
+2023-06-19 06:56:26,278 ERROR Error sending request
+2023-06-19 06:56:26,278 ERROR Exception: list index out of range
+2023-06-19 06:57:07,284 ERROR Error sending request
+2023-06-19 06:57:07,284 ERROR Exception: list index out of range
+2023-06-19 06:57:48,443 ERROR Error sending request
+2023-06-19 06:57:48,443 ERROR Exception: list index out of range
+2023-06-19 06:58:29,538 ERROR Error sending request
+2023-06-19 06:58:29,538 ERROR Exception: list index out of range
+2023-06-19 06:59:10,590 ERROR Error sending request
+2023-06-19 06:59:10,591 ERROR Exception: list index out of range
+2023-06-19 06:59:51,686 ERROR Error sending request
+2023-06-19 06:59:51,686 ERROR Exception: list index out of range
+2023-06-19 07:00:32,752 ERROR Error sending request
+2023-06-19 07:00:32,752 ERROR Exception: list index out of range
+2023-06-19 07:01:13,792 ERROR Error sending request
+2023-06-19 07:01:13,792 ERROR Exception: list index out of range
+2023-06-19 07:01:54,866 ERROR Error sending request
+2023-06-19 07:01:54,866 ERROR Exception: list index out of range
+2023-06-19 07:02:35,985 ERROR Error sending request
+2023-06-19 07:02:35,985 ERROR Exception: list index out of range
+2023-06-19 07:03:17,032 ERROR Error sending request
+2023-06-19 07:03:17,032 ERROR Exception: list index out of range
+2023-06-19 07:03:58,106 ERROR Error sending request
+2023-06-19 07:03:58,106 ERROR Exception: list index out of range
+2023-06-19 07:04:39,228 ERROR Error sending request
+2023-06-19 07:04:39,228 ERROR Exception: list index out of range
+2023-06-19 07:05:20,277 ERROR Error sending request
+2023-06-19 07:05:20,277 ERROR Exception: list index out of range
+2023-06-19 07:06:01,521 ERROR Error sending request
+2023-06-19 07:06:01,521 ERROR Exception: list index out of range
+2023-06-19 07:06:42,521 ERROR Error sending request
+2023-06-19 07:06:42,521 ERROR Exception: list index out of range
+2023-06-19 07:07:23,511 ERROR Error sending request
+2023-06-19 07:07:23,511 ERROR Exception: list index out of range
+2023-06-19 07:08:04,576 ERROR Error sending request
+2023-06-19 07:08:04,576 ERROR Exception: list index out of range
+2023-06-19 07:08:45,544 ERROR Error sending request
+2023-06-19 07:08:45,544 ERROR Exception: list index out of range
+2023-06-19 07:09:26,566 ERROR Error sending request
+2023-06-19 07:09:26,566 ERROR Exception: list index out of range
+2023-06-19 07:10:07,631 ERROR Error sending request
+2023-06-19 07:10:07,631 ERROR Exception: list index out of range
+2023-06-19 07:10:48,682 ERROR Error sending request
+2023-06-19 07:10:48,682 ERROR Exception: list index out of range
+2023-06-19 07:11:29,731 ERROR Error sending request
+2023-06-19 07:11:29,731 ERROR Exception: list index out of range
+2023-06-19 07:12:10,819 ERROR Error sending request
+2023-06-19 07:12:10,819 ERROR Exception: list index out of range
+2023-06-19 07:12:51,924 ERROR Error sending request
+2023-06-19 07:12:51,924 ERROR Exception: list index out of range
+2023-06-19 07:13:33,070 ERROR Error sending request
+2023-06-19 07:13:33,070 ERROR Exception: list index out of range
+2023-06-19 07:14:14,171 ERROR Error sending request
+2023-06-19 07:14:14,171 ERROR Exception: list index out of range
+2023-06-19 07:14:55,233 ERROR Error sending request
+2023-06-19 07:14:55,234 ERROR Exception: list index out of range
+2023-06-19 07:15:36,289 ERROR Error sending request
+2023-06-19 07:15:36,289 ERROR Exception: list index out of range
+2023-06-19 07:16:17,345 ERROR Error sending request
+2023-06-19 07:16:17,346 ERROR Exception: list index out of range
+2023-06-19 07:16:58,379 ERROR Error sending request
+2023-06-19 07:16:58,379 ERROR Exception: list index out of range
+2023-06-19 07:17:39,429 ERROR Error sending request
+2023-06-19 07:17:39,430 ERROR Exception: list index out of range
+2023-06-19 07:18:20,513 ERROR Error sending request
+2023-06-19 07:18:20,513 ERROR Exception: list index out of range
+2023-06-19 07:19:01,624 ERROR Error sending request
+2023-06-19 07:19:01,625 ERROR Exception: list index out of range
+2023-06-19 07:19:42,628 ERROR Error sending request
+2023-06-19 07:19:42,628 ERROR Exception: list index out of range
+2023-06-19 07:20:23,675 ERROR Error sending request
+2023-06-19 07:20:23,676 ERROR Exception: list index out of range
+2023-06-19 07:21:04,723 ERROR Error sending request
+2023-06-19 07:21:04,723 ERROR Exception: list index out of range
+2023-06-19 07:21:45,771 ERROR Error sending request
+2023-06-19 07:21:45,771 ERROR Exception: list index out of range
+2023-06-19 07:22:26,828 ERROR Error sending request
+2023-06-19 07:22:26,828 ERROR Exception: list index out of range
+2023-06-19 07:23:07,881 ERROR Error sending request
+2023-06-19 07:23:07,881 ERROR Exception: list index out of range
+2023-06-19 07:23:48,937 ERROR Error sending request
+2023-06-19 07:23:48,937 ERROR Exception: list index out of range
+2023-06-19 07:24:29,997 ERROR Error sending request
+2023-06-19 07:24:29,997 ERROR Exception: list index out of range
+2023-06-19 07:25:11,142 ERROR Error sending request
+2023-06-19 07:25:11,142 ERROR Exception: list index out of range
+2023-06-19 07:25:52,188 ERROR Error sending request
+2023-06-19 07:25:52,188 ERROR Exception: list index out of range
+2023-06-19 07:26:33,368 ERROR Error sending request
+2023-06-19 07:26:33,368 ERROR Exception: list index out of range
+2023-06-19 07:27:14,413 ERROR Error sending request
+2023-06-19 07:27:14,413 ERROR Exception: list index out of range
+2023-06-19 07:27:55,434 ERROR Error sending request
+2023-06-19 07:27:55,434 ERROR Exception: list index out of range
+2023-06-19 07:28:36,504 ERROR Error sending request
+2023-06-19 07:28:36,505 ERROR Exception: list index out of range
+2023-06-19 07:29:17,558 ERROR Error sending request
+2023-06-19 07:29:17,558 ERROR Exception: list index out of range
+2023-06-19 07:29:58,553 ERROR Error sending request
+2023-06-19 07:29:58,553 ERROR Exception: list index out of range
+2023-06-19 07:30:39,617 ERROR Error sending request
+2023-06-19 07:30:39,617 ERROR Exception: list index out of range
+2023-06-19 07:31:20,698 ERROR Error sending request
+2023-06-19 07:31:20,698 ERROR Exception: list index out of range
+2023-06-19 07:32:01,713 ERROR Error sending request
+2023-06-19 07:32:01,714 ERROR Exception: list index out of range
+2023-06-19 07:32:42,821 ERROR Error sending request
+2023-06-19 07:32:42,822 ERROR Exception: list index out of range
+2023-06-19 07:33:23,862 ERROR Error sending request
+2023-06-19 07:33:23,863 ERROR Exception: list index out of range
+2023-06-19 07:34:05,002 ERROR Error sending request
+2023-06-19 07:34:05,002 ERROR Exception: list index out of range
+2023-06-19 07:34:46,070 ERROR Error sending request
+2023-06-19 07:34:46,070 ERROR Exception: list index out of range
+2023-06-19 07:35:27,108 ERROR Error sending request
+2023-06-19 07:35:27,108 ERROR Exception: list index out of range
+2023-06-19 07:36:08,167 ERROR Error sending request
+2023-06-19 07:36:08,167 ERROR Exception: list index out of range
+2023-06-19 07:36:49,276 ERROR Error sending request
+2023-06-19 07:36:49,277 ERROR Exception: list index out of range
+2023-06-19 07:37:30,468 ERROR Error sending request
+2023-06-19 07:37:30,469 ERROR Exception: list index out of range
+2023-06-19 07:38:11,445 ERROR Error sending request
+2023-06-19 07:38:11,445 ERROR Exception: list index out of range
+2023-06-19 07:38:52,445 ERROR Error sending request
+2023-06-19 07:38:52,445 ERROR Exception: list index out of range
+2023-06-19 07:39:33,490 ERROR Error sending request
+2023-06-19 07:39:33,490 ERROR Exception: list index out of range
+2023-06-19 07:40:14,519 ERROR Error sending request
+2023-06-19 07:40:14,520 ERROR Exception: list index out of range
+2023-06-19 07:40:55,557 ERROR Error sending request
+2023-06-19 07:40:55,558 ERROR Exception: list index out of range
+2023-06-19 07:41:36,633 ERROR Error sending request
+2023-06-19 07:41:36,633 ERROR Exception: list index out of range
+2023-06-19 07:42:17,644 ERROR Error sending request
+2023-06-19 07:42:17,644 ERROR Exception: list index out of range
+2023-06-19 07:42:58,755 ERROR Error sending request
+2023-06-19 07:42:58,755 ERROR Exception: list index out of range
+2023-06-19 07:43:39,802 ERROR Error sending request
+2023-06-19 07:43:39,803 ERROR Exception: list index out of range
+2023-06-19 07:44:20,855 ERROR Error sending request
+2023-06-19 07:44:20,855 ERROR Exception: list index out of range
+2023-06-19 07:45:01,932 ERROR Error sending request
+2023-06-19 07:45:01,932 ERROR Exception: list index out of range
+2023-06-19 07:45:43,012 ERROR Error sending request
+2023-06-19 07:45:43,012 ERROR Exception: list index out of range
+2023-06-19 07:46:24,055 ERROR Error sending request
+2023-06-19 07:46:24,055 ERROR Exception: list index out of range
+2023-06-19 07:47:05,281 ERROR Error sending request
+2023-06-19 07:47:05,282 ERROR Exception: list index out of range
+2023-06-19 07:47:46,311 ERROR Error sending request
+2023-06-19 07:47:46,312 ERROR Exception: list index out of range
+2023-06-19 07:48:27,724 ERROR Error sending request
+2023-06-19 07:48:27,724 ERROR Exception: list index out of range
+2023-06-19 07:49:08,921 ERROR Error sending request
+2023-06-19 07:49:08,921 ERROR Exception: list index out of range
+2023-06-19 07:49:50,190 ERROR Error sending request
+2023-06-19 07:49:50,190 ERROR Exception: list index out of range
+2023-06-19 07:50:31,218 ERROR Error sending request
+2023-06-19 07:50:31,219 ERROR Exception: list index out of range
+2023-06-19 07:51:12,263 ERROR Error sending request
+2023-06-19 07:51:12,263 ERROR Exception: list index out of range
+2023-06-19 07:51:53,370 ERROR Error sending request
+2023-06-19 07:51:53,370 ERROR Exception: list index out of range
+2023-06-19 07:52:34,391 ERROR Error sending request
+2023-06-19 07:52:34,391 ERROR Exception: list index out of range
+2023-06-19 07:53:15,492 ERROR Error sending request
+2023-06-19 07:53:15,492 ERROR Exception: list index out of range
+2023-06-19 07:53:56,552 ERROR Error sending request
+2023-06-19 07:53:56,552 ERROR Exception: list index out of range
+2023-06-19 07:54:37,581 ERROR Error sending request
+2023-06-19 07:54:37,582 ERROR Exception: list index out of range
+2023-06-19 07:55:18,655 ERROR Error sending request
+2023-06-19 07:55:18,655 ERROR Exception: list index out of range
+2023-06-19 07:55:59,744 ERROR Error sending request
+2023-06-19 07:55:59,744 ERROR Exception: list index out of range
+2023-06-19 07:56:40,792 ERROR Error sending request
+2023-06-19 07:56:40,792 ERROR Exception: list index out of range
+2023-06-19 07:57:21,876 ERROR Error sending request
+2023-06-19 07:57:21,876 ERROR Exception: list index out of range
+2023-06-19 07:58:02,981 ERROR Error sending request
+2023-06-19 07:58:02,981 ERROR Exception: list index out of range
+2023-06-19 07:58:44,060 ERROR Error sending request
+2023-06-19 07:58:44,060 ERROR Exception: list index out of range
+2023-06-19 07:59:25,097 ERROR Error sending request
+2023-06-19 07:59:25,097 ERROR Exception: list index out of range
+2023-06-19 08:00:06,201 ERROR Error sending request
+2023-06-19 08:00:06,201 ERROR Exception: list index out of range
+2023-06-19 08:00:47,244 ERROR Error sending request
+2023-06-19 08:00:47,245 ERROR Exception: list index out of range
+2023-06-19 08:01:28,344 ERROR Error sending request
+2023-06-19 08:01:28,345 ERROR Exception: list index out of range
+2023-06-19 08:02:09,401 ERROR Error sending request
+2023-06-19 08:02:09,401 ERROR Exception: list index out of range
+2023-06-19 08:02:50,469 ERROR Error sending request
+2023-06-19 08:02:50,469 ERROR Exception: list index out of range
+2023-06-19 08:03:31,537 ERROR Error sending request
+2023-06-19 08:03:31,537 ERROR Exception: list index out of range
+2023-06-19 08:04:12,585 ERROR Error sending request
+2023-06-19 08:04:12,585 ERROR Exception: list index out of range
+2023-06-19 08:04:53,648 ERROR Error sending request
+2023-06-19 08:04:53,648 ERROR Exception: list index out of range
+2023-06-19 08:05:34,692 ERROR Error sending request
+2023-06-19 08:05:34,692 ERROR Exception: list index out of range
+2023-06-19 08:06:15,763 ERROR Error sending request
+2023-06-19 08:06:15,763 ERROR Exception: list index out of range
+2023-06-19 08:06:56,924 ERROR Error sending request
+2023-06-19 08:06:56,924 ERROR Exception: list index out of range
+2023-06-19 08:07:37,993 ERROR Error sending request
+2023-06-19 08:07:37,993 ERROR Exception: list index out of range
+2023-06-19 08:08:19,044 ERROR Error sending request
+2023-06-19 08:08:19,044 ERROR Exception: list index out of range
+2023-06-19 08:09:00,061 ERROR Error sending request
+2023-06-19 08:09:00,062 ERROR Exception: list index out of range
+2023-06-19 08:09:41,121 ERROR Error sending request
+2023-06-19 08:09:41,121 ERROR Exception: list index out of range
+2023-06-19 08:10:22,190 ERROR Error sending request
+2023-06-19 08:10:22,190 ERROR Exception: list index out of range
+2023-06-19 08:11:03,180 ERROR Error sending request
+2023-06-19 08:11:03,181 ERROR Exception: list index out of range
+2023-06-19 08:11:44,222 ERROR Error sending request
+2023-06-19 08:11:44,222 ERROR Exception: list index out of range
+2023-06-19 08:12:25,345 ERROR Error sending request
+2023-06-19 08:12:25,345 ERROR Exception: list index out of range
+2023-06-19 08:13:06,379 ERROR Error sending request
+2023-06-19 08:13:06,379 ERROR Exception: list index out of range
+2023-06-19 08:13:47,538 ERROR Error sending request
+2023-06-19 08:13:47,539 ERROR Exception: list index out of range
+2023-06-19 08:14:28,603 ERROR Error sending request
+2023-06-19 08:14:28,603 ERROR Exception: list index out of range
+2023-06-19 08:15:09,624 ERROR Error sending request
+2023-06-19 08:15:09,625 ERROR Exception: list index out of range
+2023-06-19 08:15:50,802 ERROR Error sending request
+2023-06-19 08:15:50,803 ERROR Exception: list index out of range
+2023-06-19 08:16:31,875 ERROR Error sending request
+2023-06-19 08:16:31,876 ERROR Exception: list index out of range
+2023-06-19 08:17:12,999 ERROR Error sending request
+2023-06-19 08:17:12,999 ERROR Exception: list index out of range
+2023-06-19 08:17:54,043 ERROR Error sending request
+2023-06-19 08:17:54,043 ERROR Exception: list index out of range
+2023-06-19 08:18:35,122 ERROR Error sending request
+2023-06-19 08:18:35,122 ERROR Exception: list index out of range
+2023-06-19 08:19:16,205 ERROR Error sending request
+2023-06-19 08:19:16,205 ERROR Exception: list index out of range
+2023-06-19 08:19:57,280 ERROR Error sending request
+2023-06-19 08:19:57,281 ERROR Exception: list index out of range
+2023-06-19 08:20:38,379 ERROR Error sending request
+2023-06-19 08:20:38,379 ERROR Exception: list index out of range
+2023-06-19 08:21:19,491 ERROR Error sending request
+2023-06-19 08:21:19,491 ERROR Exception: list index out of range
+2023-06-19 08:22:00,595 ERROR Error sending request
+2023-06-19 08:22:00,596 ERROR Exception: list index out of range
+2023-06-19 08:22:41,628 ERROR Error sending request
+2023-06-19 08:22:41,629 ERROR Exception: list index out of range
+2023-06-19 08:23:22,666 ERROR Error sending request
+2023-06-19 08:23:22,666 ERROR Exception: list index out of range
+2023-06-19 08:24:03,806 ERROR Error sending request
+2023-06-19 08:24:03,806 ERROR Exception: list index out of range
+2023-06-19 08:24:44,853 ERROR Error sending request
+2023-06-19 08:24:44,853 ERROR Exception: list index out of range
+2023-06-19 08:25:25,881 ERROR Error sending request
+2023-06-19 08:25:25,881 ERROR Exception: list index out of range
+2023-06-19 08:26:06,961 ERROR Error sending request
+2023-06-19 08:26:06,962 ERROR Exception: list index out of range
+2023-06-19 08:26:47,984 ERROR Error sending request
+2023-06-19 08:26:47,984 ERROR Exception: list index out of range
+2023-06-19 08:27:29,024 ERROR Error sending request
+2023-06-19 08:27:29,024 ERROR Exception: list index out of range
+2023-06-19 08:28:10,138 ERROR Error sending request
+2023-06-19 08:28:10,138 ERROR Exception: list index out of range
+2023-06-19 08:28:51,220 ERROR Error sending request
+2023-06-19 08:28:51,220 ERROR Exception: list index out of range
+2023-06-19 08:29:32,300 ERROR Error sending request
+2023-06-19 08:29:32,300 ERROR Exception: list index out of range
+2023-06-19 08:30:13,395 ERROR Error sending request
+2023-06-19 08:30:13,395 ERROR Exception: list index out of range
+2023-06-19 08:30:54,418 ERROR Error sending request
+2023-06-19 08:30:54,418 ERROR Exception: list index out of range
+2023-06-19 08:31:35,510 ERROR Error sending request
+2023-06-19 08:31:35,510 ERROR Exception: list index out of range
+2023-06-19 08:32:16,554 ERROR Error sending request
+2023-06-19 08:32:16,555 ERROR Exception: list index out of range
+2023-06-19 08:32:57,570 ERROR Error sending request
+2023-06-19 08:32:57,570 ERROR Exception: list index out of range
+2023-06-19 08:33:38,594 ERROR Error sending request
+2023-06-19 08:33:38,594 ERROR Exception: list index out of range
+2023-06-19 08:34:19,728 ERROR Error sending request
+2023-06-19 08:34:19,729 ERROR Exception: list index out of range
+2023-06-19 08:35:01,226 ERROR Error sending request
+2023-06-19 08:35:01,227 ERROR Exception: list index out of range
+2023-06-19 08:35:42,253 ERROR Error sending request
+2023-06-19 08:35:42,253 ERROR Exception: list index out of range
+2023-06-19 08:36:23,321 ERROR Error sending request
+2023-06-19 08:36:23,322 ERROR Exception: list index out of range
+2023-06-19 08:37:04,402 ERROR Error sending request
+2023-06-19 08:37:04,402 ERROR Exception: list index out of range
+2023-06-19 08:37:45,422 ERROR Error sending request
+2023-06-19 08:37:45,422 ERROR Exception: list index out of range
+2023-06-19 09:38:26,375 ERROR Error sending request
+2023-06-19 09:38:26,375 ERROR Exception: list index out of range
+2023-06-19 09:39:07,386 ERROR Error sending request
+2023-06-19 09:39:07,386 ERROR Exception: list index out of range
+2023-06-19 09:39:48,443 ERROR Error sending request
+2023-06-19 09:39:48,443 ERROR Exception: list index out of range
+2023-06-19 09:40:29,531 ERROR Error sending request
+2023-06-19 09:40:29,531 ERROR Exception: list index out of range
+2023-06-19 09:41:10,600 ERROR Error sending request
+2023-06-19 09:41:10,600 ERROR Exception: list index out of range
+2023-06-19 09:41:51,665 ERROR Error sending request
+2023-06-19 09:41:51,665 ERROR Exception: list index out of range
+2023-06-19 09:42:32,755 ERROR Error sending request
+2023-06-19 09:42:32,755 ERROR Exception: list index out of range
+2023-06-19 09:43:13,773 ERROR Error sending request
+2023-06-19 09:43:13,773 ERROR Exception: list index out of range
+2023-06-19 09:43:54,813 ERROR Error sending request
+2023-06-19 09:43:54,813 ERROR Exception: list index out of range
+2023-06-19 09:44:35,857 ERROR Error sending request
+2023-06-19 09:44:35,857 ERROR Exception: list index out of range
+2023-06-19 09:45:16,972 ERROR Error sending request
+2023-06-19 09:45:16,972 ERROR Exception: list index out of range
+2023-06-19 09:45:58,025 ERROR Error sending request
+2023-06-19 09:45:58,025 ERROR Exception: list index out of range
+2023-06-19 09:46:39,102 ERROR Error sending request
+2023-06-19 09:46:39,102 ERROR Exception: list index out of range
+2023-06-19 09:47:20,217 ERROR Error sending request
+2023-06-19 09:47:20,217 ERROR Exception: list index out of range
+2023-06-19 09:48:01,216 ERROR Error sending request
+2023-06-19 09:48:01,217 ERROR Exception: list index out of range
+2023-06-19 09:48:42,364 ERROR Error sending request
+2023-06-19 09:48:42,364 ERROR Exception: list index out of range
+2023-06-19 09:49:23,404 ERROR Error sending request
+2023-06-19 09:49:23,404 ERROR Exception: list index out of range
+2023-06-19 09:50:04,478 ERROR Error sending request
+2023-06-19 09:50:04,478 ERROR Exception: list index out of range
+2023-06-19 09:50:45,570 ERROR Error sending request
+2023-06-19 09:50:45,570 ERROR Exception: list index out of range
+2023-06-19 09:51:26,659 ERROR Error sending request
+2023-06-19 09:51:26,659 ERROR Exception: list index out of range
+2023-06-19 09:52:07,713 ERROR Error sending request
+2023-06-19 09:52:07,713 ERROR Exception: list index out of range
+2023-06-19 09:52:48,826 ERROR Error sending request
+2023-06-19 09:52:48,826 ERROR Exception: list index out of range
+2023-06-19 09:53:30,124 ERROR Error sending request
+2023-06-19 09:53:30,125 ERROR Exception: list index out of range
+2023-06-19 09:54:11,195 ERROR Error sending request
+2023-06-19 09:54:11,195 ERROR Exception: list index out of range
+2023-06-19 09:54:52,236 ERROR Error sending request
+2023-06-19 09:54:52,237 ERROR Exception: list index out of range
+2023-06-19 09:55:33,257 ERROR Error sending request
+2023-06-19 09:55:33,257 ERROR Exception: list index out of range
+2023-06-19 09:56:14,388 ERROR Error sending request
+2023-06-19 09:56:14,388 ERROR Exception: list index out of range
+2023-06-19 09:56:55,500 ERROR Error sending request
+2023-06-19 09:56:55,501 ERROR Exception: list index out of range
+2023-06-19 09:57:36,519 ERROR Error sending request
+2023-06-19 09:57:36,519 ERROR Exception: list index out of range
+2023-06-19 09:58:17,624 ERROR Error sending request
+2023-06-19 09:58:17,624 ERROR Exception: list index out of range
+2023-06-19 09:58:58,705 ERROR Error sending request
+2023-06-19 09:58:58,706 ERROR Exception: list index out of range
+2023-06-19 09:59:39,805 ERROR Error sending request
+2023-06-19 09:59:39,805 ERROR Exception: list index out of range
+2023-06-19 10:00:20,855 ERROR Error sending request
+2023-06-19 10:00:20,856 ERROR Exception: list index out of range
+2023-06-19 10:01:01,922 ERROR Error sending request
+2023-06-19 10:01:01,922 ERROR Exception: list index out of range
+2023-06-19 10:01:42,947 ERROR Error sending request
+2023-06-19 10:01:42,947 ERROR Exception: list index out of range
+2023-06-19 10:02:23,989 ERROR Error sending request
+2023-06-19 10:02:23,989 ERROR Exception: list index out of range
+2023-06-19 10:03:05,089 ERROR Error sending request
+2023-06-19 10:03:05,089 ERROR Exception: list index out of range
+2023-06-19 10:03:46,142 ERROR Error sending request
+2023-06-19 10:03:46,142 ERROR Exception: list index out of range
+2023-06-19 10:04:27,241 ERROR Error sending request
+2023-06-19 10:04:27,242 ERROR Exception: list index out of range
+2023-06-19 10:05:08,300 ERROR Error sending request
+2023-06-19 10:05:08,300 ERROR Exception: list index out of range
+2023-06-19 10:05:49,409 ERROR Error sending request
+2023-06-19 10:05:49,409 ERROR Exception: list index out of range
+2023-06-19 10:06:30,508 ERROR Error sending request
+2023-06-19 10:06:30,508 ERROR Exception: list index out of range
+2023-06-19 10:07:11,571 ERROR Error sending request
+2023-06-19 10:07:11,571 ERROR Exception: list index out of range
+2023-06-19 10:07:52,611 ERROR Error sending request
+2023-06-19 10:07:52,611 ERROR Exception: list index out of range
+2023-06-19 10:08:33,676 ERROR Error sending request
+2023-06-19 10:08:33,676 ERROR Exception: list index out of range
+2023-06-19 10:09:15,086 ERROR Error sending request
+2023-06-19 10:09:15,086 ERROR Exception: list index out of range
+2023-06-19 10:09:56,126 ERROR Error sending request
+2023-06-19 10:09:56,127 ERROR Exception: list index out of range
+2023-06-19 10:10:37,178 ERROR Error sending request
+2023-06-19 10:10:37,178 ERROR Exception: list index out of range
+2023-06-19 10:11:18,254 ERROR Error sending request
+2023-06-19 10:11:18,254 ERROR Exception: list index out of range
+2023-06-19 10:11:59,449 ERROR Error sending request
+2023-06-19 10:11:59,449 ERROR Exception: list index out of range
+2023-06-19 10:12:40,582 ERROR Error sending request
+2023-06-19 10:12:40,582 ERROR Exception: list index out of range
+2023-06-19 10:13:21,723 ERROR Error sending request
+2023-06-19 10:13:21,723 ERROR Exception: list index out of range
+2023-06-19 10:14:02,757 ERROR Error sending request
+2023-06-19 10:14:02,757 ERROR Exception: list index out of range
+2023-06-19 10:14:43,797 ERROR Error sending request
+2023-06-19 10:14:43,797 ERROR Exception: list index out of range
+2023-06-19 10:15:25,058 ERROR Error sending request
+2023-06-19 10:15:25,058 ERROR Exception: list index out of range
+2023-06-19 10:16:06,066 ERROR Error sending request
+2023-06-19 10:16:06,066 ERROR Exception: list index out of range
+2023-06-19 10:16:47,149 ERROR Error sending request
+2023-06-19 10:16:47,149 ERROR Exception: list index out of range
+2023-06-19 10:17:28,218 ERROR Error sending request
+2023-06-19 10:17:28,218 ERROR Exception: list index out of range
+2023-06-19 10:18:09,302 ERROR Error sending request
+2023-06-19 10:18:09,303 ERROR Exception: list index out of range
+2023-06-19 10:18:50,339 ERROR Error sending request
+2023-06-19 10:18:50,339 ERROR Exception: list index out of range
+2023-06-19 10:19:31,423 ERROR Error sending request
+2023-06-19 10:19:31,423 ERROR Exception: list index out of range
+2023-06-19 10:20:12,475 ERROR Error sending request
+2023-06-19 10:20:12,475 ERROR Exception: list index out of range
+2023-06-19 10:20:53,855 ERROR Error sending request
+2023-06-19 10:20:53,855 ERROR Exception: list index out of range
+2023-06-19 10:21:34,982 ERROR Error sending request
+2023-06-19 10:21:34,982 ERROR Exception: list index out of range
+2023-06-19 10:22:15,995 ERROR Error sending request
+2023-06-19 10:22:15,995 ERROR Exception: list index out of range
+2023-06-19 10:22:57,057 ERROR Error sending request
+2023-06-19 10:22:57,057 ERROR Exception: list index out of range
+2023-06-19 10:23:38,151 ERROR Error sending request
+2023-06-19 10:23:38,152 ERROR Exception: list index out of range
+2023-06-19 10:24:19,232 ERROR Error sending request
+2023-06-19 10:24:19,232 ERROR Exception: list index out of range
+2023-06-19 10:25:00,349 ERROR Error sending request
+2023-06-19 10:25:00,350 ERROR Exception: list index out of range
+2023-06-19 10:25:41,478 ERROR Error sending request
+2023-06-19 10:25:41,478 ERROR Exception: list index out of range
+2023-06-19 10:26:22,483 ERROR Error sending request
+2023-06-19 10:26:22,483 ERROR Exception: list index out of range
+2023-06-19 10:27:03,496 ERROR Error sending request
+2023-06-19 10:27:03,497 ERROR Exception: list index out of range
+2023-06-19 10:27:44,556 ERROR Error sending request
+2023-06-19 10:27:44,557 ERROR Exception: list index out of range
+2023-06-19 10:28:25,658 ERROR Error sending request
+2023-06-19 10:28:25,658 ERROR Exception: list index out of range
+2023-06-19 10:29:06,711 ERROR Error sending request
+2023-06-19 10:29:06,711 ERROR Exception: list index out of range
+2023-06-19 10:29:47,799 ERROR Error sending request
+2023-06-19 10:29:47,799 ERROR Exception: list index out of range
+2023-06-19 10:30:28,805 ERROR Error sending request
+2023-06-19 10:30:28,805 ERROR Exception: list index out of range
+2023-06-19 10:31:09,875 ERROR Error sending request
+2023-06-19 10:31:09,875 ERROR Exception: list index out of range
+2023-06-19 10:31:50,938 ERROR Error sending request
+2023-06-19 10:31:50,938 ERROR Exception: list index out of range
+2023-06-19 10:32:31,757 INFO Starting script
+2023-06-19 10:36:36,646 ERROR Error sending request
+2023-06-19 10:36:36,646 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-19 10:39:50,161 ERROR Error sending request
+2023-06-19 10:39:50,161 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 10:40:30,360 ERROR Error sending request
+2023-06-19 10:40:30,360 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 10:41:14,129 ERROR Error sending request
+2023-06-19 10:41:14,129 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 10:42:57,292 ERROR Error sending request
+2023-06-19 10:42:57,292 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 10:45:37,388 ERROR Error sending request
+2023-06-19 10:45:37,388 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 10:45:40,723 ERROR Error sending request
+2023-06-19 10:45:40,723 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 11:49:06,102 ERROR Error sending request
+2023-06-19 11:49:06,102 ERROR Exception: list index out of range
+2023-06-19 11:51:08,297 ERROR Error sending request
+2023-06-19 11:51:08,297 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 11:52:33,230 ERROR Error sending request
+2023-06-19 11:52:33,230 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 11:52:38,773 ERROR Error sending request
+2023-06-19 11:52:38,773 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 11:53:50,882 ERROR Error sending request
+2023-06-19 11:53:50,882 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-19 11:54:05,709 ERROR Error sending request
+2023-06-19 11:54:05,709 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 11:54:21,628 ERROR Error sending request
+2023-06-19 11:54:21,629 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 11:55:34,431 ERROR Error sending request
+2023-06-19 11:55:34,431 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 12:56:46,633 ERROR Error sending request
+2023-06-19 12:56:46,633 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 12:58:27,707 ERROR Error sending request
+2023-06-19 12:58:27,707 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 13:00:57,329 ERROR Error sending request
+2023-06-19 13:00:57,329 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 13:24:55,401 INFO Starting script
+2023-06-19 14:27:28,454 ERROR Error sending request
+2023-06-19 14:27:28,455 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-19 14:28:35,216 ERROR Error sending request
+2023-06-19 14:28:35,217 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 15:31:34,743 ERROR Error sending request
+2023-06-19 15:31:34,744 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 15:32:15,673 ERROR Error sending request
+2023-06-19 15:32:15,673 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 15:32:52,690 ERROR Error sending request
+2023-06-19 15:32:52,690 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 15:34:37,444 ERROR Error sending request
+2023-06-19 15:34:37,444 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 15:36:59,379 ERROR Error sending request
+2023-06-19 15:36:59,379 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 15:37:03,696 ERROR Error sending request
+2023-06-19 15:37:03,696 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 15:38:45,666 ERROR Error sending request
+2023-06-19 15:38:45,667 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 15:40:40,796 ERROR Error sending request
+2023-06-19 15:40:40,796 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 15:43:40,708 ERROR Error sending request
+2023-06-19 15:43:40,708 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-19 15:43:46,026 ERROR Error sending request
+2023-06-19 15:43:46,026 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 15:43:49,269 ERROR Error sending request
+2023-06-19 15:43:49,269 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-19 15:45:25,663 ERROR Error sending request
+2023-06-19 15:45:25,664 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 15:45:44,783 ERROR Error sending request
+2023-06-19 15:45:44,783 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-19 15:46:22,408 ERROR Error sending request
+2023-06-19 15:46:22,408 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 16:11:41,514 INFO Starting script
+2023-06-20 16:15:36,815 ERROR Error sending request
+2023-06-20 16:15:36,815 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-20 16:19:34,756 ERROR Error sending request
+2023-06-20 16:19:34,756 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 16:21:10,619 ERROR Error sending request
+2023-06-20 16:21:10,620 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 17:22:54,005 ERROR Error sending request
+2023-06-20 17:22:54,005 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 17:24:28,707 ERROR Error sending request
+2023-06-20 17:24:28,707 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 17:26:17,199 ERROR Error sending request
+2023-06-20 17:26:17,199 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 17:29:40,683 ERROR Error sending request
+2023-06-20 17:29:40,683 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 17:29:50,568 ERROR Error sending request
+2023-06-20 17:29:50,568 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 17:31:35,393 ERROR Error sending request
+2023-06-20 17:31:35,394 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 17:34:03,899 ERROR Error sending request
+2023-06-20 17:34:03,899 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 17:35:56,456 ERROR Error sending request
+2023-06-20 17:35:56,456 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 17:38:19,270 ERROR Error sending request
+2023-06-20 17:38:19,271 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 17:38:32,945 ERROR Error sending request
+2023-06-20 17:38:32,945 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 18:42:39,403 ERROR Error sending request
+2023-06-20 18:42:39,403 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-20 18:43:39,518 ERROR Error sending request
+2023-06-20 18:43:39,518 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 18:48:15,495 INFO Starting script
+2023-06-20 18:56:01,541 ERROR Error sending request
+2023-06-20 18:56:01,542 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-20 18:56:45,039 ERROR Error sending request
+2023-06-20 18:56:45,039 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 18:58:13,665 ERROR Error sending request
+2023-06-20 18:58:13,665 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 19:00:11,345 ERROR Error sending request
+2023-06-20 19:00:11,345 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 19:01:28,479 ERROR Error sending request
+2023-06-20 19:01:28,479 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 19:01:53,160 ERROR Error sending request
+2023-06-20 19:01:53,160 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 19:03:38,690 ERROR Error sending request
+2023-06-20 19:03:38,690 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 19:03:49,448 ERROR Error sending request
+2023-06-20 19:03:49,448 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 19:08:13,816 ERROR Error sending request
+2023-06-20 19:08:13,817 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 19:13:23,003 ERROR Error sending request
+2023-06-20 19:13:23,004 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 19:13:33,954 ERROR Error sending request
+2023-06-20 19:13:33,954 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 19:15:46,456 ERROR Error sending request
+2023-06-20 19:15:46,456 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-20 19:15:58,161 ERROR Error sending request
+2023-06-20 19:15:58,161 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 19:18:36,573 ERROR Error sending request
+2023-06-20 19:18:36,573 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 19:21:58,686 INFO Starting script
+2023-06-20 19:29:34,395 ERROR Error sending request
+2023-06-20 19:29:34,396 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 19:30:03,313 ERROR Error sending request
+2023-06-20 19:30:03,313 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 19:31:35,367 ERROR Error sending request
+2023-06-20 19:31:35,367 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-20 20:34:08,113 ERROR Error sending request
+2023-06-20 20:34:08,113 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 20:37:42,481 ERROR Error sending request
+2023-06-20 20:37:42,481 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 20:37:53,510 ERROR Error sending request
+2023-06-20 20:37:53,510 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 20:41:59,234 ERROR Error sending request
+2023-06-20 20:41:59,234 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 20:43:37,320 ERROR Error sending request
+2023-06-20 20:43:37,320 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 20:43:41,357 ERROR Error sending request
+2023-06-20 20:43:41,357 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 20:46:10,152 ERROR Error sending request
+2023-06-20 20:46:10,152 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 20:46:24,625 ERROR Error sending request
+2023-06-20 20:46:24,625 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 20:47:52,182 ERROR Error sending request
+2023-06-20 20:47:52,182 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 20:50:49,735 ERROR Error sending request
+2023-06-20 20:50:49,735 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 22:04:30,194 INFO Starting script
+2023-06-20 22:11:17,947 ERROR Error sending request
+2023-06-20 22:11:17,947 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 22:11:52,461 ERROR Error sending request
+2023-06-20 22:11:52,461 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 22:13:02,309 ERROR Error sending request
+2023-06-20 22:13:02,310 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 22:14:57,636 ERROR Error sending request
+2023-06-20 22:14:57,637 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 22:18:35,267 ERROR Error sending request
+2023-06-20 22:18:35,267 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 22:18:43,530 ERROR Error sending request
+2023-06-20 22:18:43,530 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 22:21:35,104 ERROR Error sending request
+2023-06-20 22:21:35,104 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-20 22:22:04,415 ERROR Error sending request
+2023-06-20 22:22:04,415 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 22:23:28,927 ERROR Error sending request
+2023-06-20 22:23:28,927 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 22:25:29,882 ERROR Error sending request
+2023-06-20 22:25:29,882 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 22:25:37,674 ERROR Error sending request
+2023-06-20 22:25:37,674 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 23:27:10,411 ERROR Error sending request
+2023-06-20 23:27:10,411 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-20 23:28:59,745 ERROR Error sending request
+2023-06-20 23:28:59,746 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 23:29:47,273 ERROR Error sending request
+2023-06-20 23:29:47,273 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-20 23:32:00,649 INFO Starting script
+2023-06-21 12:39:45,521 INFO Starting script
+2023-06-21 13:55:06,394 INFO Starting script
+2023-06-21 13:55:46,161 ERROR Error sending request
+2023-06-21 13:55:46,161 ERROR Exception: Expecting value: line 1 column 1 (char 0)
+2023-06-21 13:58:38,813 ERROR Error sending request
+2023-06-21 13:58:38,814 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-21 14:01:56,934 ERROR Error sending request
+2023-06-21 14:01:56,934 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-06-21 14:02:29,670 ERROR Error sending request
+2023-06-21 14:02:29,670 ERROR Exception: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
